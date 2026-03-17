@@ -1,0 +1,596 @@
+{
+  "filterBy": [
+    {
+      "groupName": "Technology",
+      "categories": [
+        {
+          "name": "MR Devices",
+          "values": [
+            "AR OST HWD",
+            "CAVE",
+            "HMD (VR/AR)",
+            "Projected"
+          ],
+          "selected": []
+        },
+        {
+          "name": "2D Devices",
+          "values": [
+            "Desktop",
+            "Laptop",
+            "Screen/Monitor",
+            "Smartphone",
+            "Tablet"
+          ],
+          "selected": []
+        }
+      ]
+    },
+    {
+      "groupName": "Taxonomy",
+      "categories": [
+        {
+          "name": "Configuration",
+          "values": [
+            "Migratory Interface",
+            "Multi-device",
+            "Shared Display/Workspace",
+            "Single device"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Temporal",
+          "values": [
+            "Exclusive",
+            "Parallel",
+            "Serial"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Relationship",
+          "values": [
+            "Collaborative/Group",
+            "Multi-user",
+            "Single User"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Range",
+          "values": [
+            "Near",
+            "Personal",
+            "Public",
+            "Social"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Device Dependency",
+          "values": [
+            "Fixed",
+            "Flexible"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Interaction Dynamics",
+          "values": [
+            "Bidirectional",
+            "Direct/Physical Manipulation",
+            "Gesture/Hand-tracking",
+            "Shape-changing/Deformable",
+            "Tangible/Embodied"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Space",
+          "values": [
+            "Co-Located",
+            "Remote/Distributed",
+            "Shared Space/Workspace"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Anchoring",
+          "values": [
+            "Component-coupled",
+            "Dynamic",
+            "Free"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Display Geometry",
+          "values": [
+            "Curved",
+            "Cylindrical",
+            "Flexible",
+            "Shape-changing/Deformable",
+            "Spherical",
+            "Tangible/Physical Surface"
+          ],
+          "selected": []
+        }
+      ]
+    },
+    {
+      "groupName": "DISPLAY",
+      "categories": [
+        {
+          "name": "Type of display",
+          "values": [
+            "Ambient",
+            "Cubic",
+            "Curved",
+            "Cylindrical",
+            "HMD",
+            "LED floor",
+            "Non-Planar",
+            "Pervasive",
+            "Planar",
+            "Projected",
+            "Shape-changing",
+            "Shape-changing / Tangible",
+            "Spherical",
+            "Tangible",
+            "Tangible Globe",
+            "VR"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Composition of display",
+          "values": [
+            "Multi-device",
+            "Single device"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Application area",
+          "values": [
+            "Architecture",
+            "Art and entartainment",
+            "Art and entertainment",
+            "Computer Graphics",
+            "Control systems (",
+            "Data visualization",
+            "Decision making",
+            "Design",
+            "Design Research",
+            "Education",
+            "Education and Training",
+            "Education and training",
+            "Engineering",
+            "Event monitoring",
+            "Family",
+            "Gaming",
+            "Geospatial",
+            "HCI",
+            "Health monitoring",
+            "Healthcare",
+            "Immersive Visualization",
+            "Information interfaces",
+            "Interactive design",
+            "Interface design",
+            "IoT",
+            "IoT monitoring",
+            "Medical",
+            "Medical training",
+            "Mobile interaction",
+            "Network security monitoring",
+            "Network visualization",
+            "Not specified",
+            "Power grid management",
+            "Prototyping",
+            "Public spaces",
+            "Remote operation",
+            "Retail",
+            "Scientific",
+            "Self-tracking",
+            "Simulation",
+            "Smart Cities",
+            "Social media visualization",
+            "Training",
+            "Transportation",
+            "Urban Informatics",
+            "VR",
+            "VR research",
+            "Workplace"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Use Case",
+          "values": [
+            "\"Possible real-life scenario for a P+D visualization: We outline a control room application in the context of rail traffic monitoring",
+            "(a) Augmenting the facial expressions of patients with amyotrophic lateral sclerosis or mental disorders",
+            "(b) Reducing sense of fear in the treatment of child patients and enhancing the friendliness of the mask wearer (c) Changing the face of an interviewer to ease an interviewee’s nerves",
+            "(d) Changing the default expression of staff working in customer service",
+            "(e) Virtually changing a performer’s face to make rehearsal conditions closer to final performance",
+            "(f) Changing online gamers’ faces to look like their profile pictures even when offline",
+            "1D Fitts’ Law pointing tasks on large curved displays",
+            "3D graph visualizations",
+            "3D object selection in extended workspace",
+            "AR gaming",
+            "Ambient notification/visualization for long gaming sessions",
+            "Ambient physical visualization of weekly step data",
+            "Ambient visualization of step-count data",
+            "As artistic audio/visual installation in museum",
+            "Attribute inspection.",
+            "Automotive production planning",
+            "BS deployment",
+            "Calibration and alignment of multiple distorted projectors on non-planar surfaces",
+            "Collaborative data exploration and comparison of multi-dimensional data points",
+            "Collaborative document organization and visualization on circular tabletop",
+            "Collaborative exploration of shared datasets in immersive environments",
+            "Collaborative multiplayer interaction via virtual interfaces",
+            "Communicating renewable energy forecasts / ambient daily notifications to support shifting laptop charging to renewable peak hours",
+            "Compose multi-user interactive virtual environments on tiled displays",
+            "Counting target icons in non-rectangular interface layouts",
+            "Curved Planar Reformation (CPR) visualization enhancement",
+            "Debugging",
+            "Design Toolkit for crafting on-body haptics ；Touch pattern recording and playback ；real time 3D visualization",
+            "Display forecasts of renewable energy availability to support energy demand shifting",
+            "Displaying seamless 2D or 3D datasets",
+            "Dynamic urban design: synchronized AR + tangible pin-array city scene",
+            "Encode menstrual tracking data (bleeding",
+            "Encouraging players to take breaks based on physiological measurements.",
+            "Evaluation and visualization of telco localization algorithms",
+            "Exhibition on Milan Design Week 2015",
+            "Exploration of astronomical data",
+            "Flow field visualization on curved geometry",
+            "For educational purposes such as in museums and\nscience centers",
+            "For feedback about size",
+            "Gaze-adaptive user interfaces in augmented reality environments",
+            "HBF performance",
+            "Hospital waiting room",
+            "Identification",
+            "Immersive 3D task",
+            "Immersive visualization environments",
+            "Immersive visualization task",
+            "Improving privacy awareness；Visualizing IoT data consumption and privacy notices；Supporting families to make informed privacy decisions",
+            "In the first scenario",
+            "Interactive data exploration interface",
+            "Interactive exploration",
+            "Interface for monitoring/control of multi-parameter objects",
+            "Large-scale data visualization in immersive lab",
+            "Live summarization of Twitter streams during events",
+            "Manipulation of 3D widgets using tangible input devices",
+            "Multi-faceted data exploration through flexible transitions between views",
+            "Multiple concurrent users select/move/scale/rotate objects on a tiled wall display",
+            "Nap-of-the-earth helicopter maneuver training",
+            "Navigable 3D model of 16th-century ship",
+            "Navigating a city based on real-time social popularity",
+            "Not specified",
+            "Parametric modeling + deformation simulation of milliMorph interfaces",
+            "Pen-and-paper based interaction with ultra-scale wall display content",
+            "Projection of CT ROI onto craniofacial surface during surgery",
+            "Rapid prototyping of data-driven shape-changing displays",
+            "Real-time monitoring of connected devices",
+            "Real-time progress rendering during file loading",
+            "Real-time terrain data visualization",
+            "Real-time visualization of animated heart model triggered by ECG R-wave",
+            "Real-time visualization of deformation and vibration of a flexible hinged plate",
+            "Remote biometric monitoring and awareness of hospitalized patient",
+            "Scientifically",
+            "Shape-changing physical data sculptures augmented with virtual content for interactive exploration of datasets.",
+            "Shared-space MR",
+            "Simulation and visualization of industrial automation models for PLC programming validation",
+            "Slow feedback for recreational runners by physicalizing running route and effort data in a home environment",
+            "Spaxel Sculptural Image",
+            "Steerable projector projects Y/N buttons on the floor for stepping input",
+            "Supermarket decision-making in XR: Inform / Nudge / Recommend / Instruct overlays",
+            "Surgical pre-operative planning with interactive 3D organ models and CT dataset navigation",
+            "Tangible interactive interface prototype",
+            "Transition between cylinder",
+            "User study",
+            "VR-based monitoring dashboard and remote control of autonomous vehicle",
+            "Virtual image wall for a 3D user interface",
+            "Visual inspection of massive point clouds",
+            "Visualization and flattening of curved anatomical structures",
+            "Visualization of Internet traffic patterns on spherical surface",
+            "Visualization of IoT sensor data via dashboard",
+            "Visualization of power outage areas and grid states",
+            "Visualization of radio wave propagation",
+            "Visualization of time-variant IF-MAP graph states",
+            "Visualization of vessels using curved surface reformation",
+            "Volumetric model viewer + bidirectional digital-twin editor",
+            "Walkthrough / navigation of massive LiDAR interior point cloud datasets in immersive VR",
+            "We present a user study with 16 participants using EMERGE [29]",
+            "a physically dynamic bar chart with a grid of 100 self-actuating bars.",
+            "and an inventory interface for a VR-based educational game",
+            "and augments descriptions",
+            "and cinema.",
+            "and overlaps of sound zones in the home",
+            "and the possible content of each display area\"",
+            "architecture",
+            "building height adjustment",
+            "calendar views",
+            "channel impulse responses",
+            "collaborative CAD",
+            "cramps",
+            "cube",
+            "drag-and-drop",
+            "dynamic spatial visualization for large audiences",
+            "especially for presenting interactive geoscience data\nvisualizations for Earth science education",
+            "fatigue",
+            "fusing art",
+            "games",
+            "heart rate charts",
+            "highlights sub-regions to guide attention",
+            "living space or home environment",
+            "manipulate projected content via pinch gestures",
+            "media",
+            "monitoring and exploring distributed physical device infrastructures",
+            "multiplayer collaboration",
+            "music",
+            "panoramic imagery and 360° video conferencing inside immersive dome",
+            "pentagonal prism to represent sets/groupings/dimensions of data",
+            "position",
+            "product tear-down visualization",
+            "projects icons on the floor for selecting artifacts",
+            "science",
+            "selection and manipulation of distributed physical devices via a 3D room metaphor interface",
+            "study user autonomy and preferences",
+            "supports color change",
+            "surgical planning",
+            "tender breasts) through inflation/deflation of embedded air pockets",
+            "the AlloSphere can help provide insight on environments into which the body cannot venture. Artistically",
+            "the AlloSphere can serve as an instrument for creating and performing new works and developing new modes of entertainment",
+            "the ShadowSparrow is connected to smart home system and casts an dinnerware icon when the dishwasher is done. The third scenario showcases a subtle notification via an e-mail icon when an important e-mail arrives.",
+            "to reduce emotional labor",
+            "triangular prism",
+            "true-to-scale floor visualization",
+            "use cases include medical training",
+            "using MRI and CT volume data to explore cross-sectional structures by bending the screen to match anatomical curvature.",
+            "volume",
+            "we focus on displaying an ambient visualization of a timer with the states of a bird. In the second scenario"
+          ],
+          "selected": []
+        }
+      ]
+    },
+    {
+      "groupName": "DATA & VIS",
+      "categories": [
+        {
+          "name": "Data type",
+          "values": [
+            "2D data sets",
+            "2D datasets",
+            "3D medical data",
+            "3D objects",
+            "3D spatial data",
+            "Categorical data",
+            "Cyclical data",
+            "Geographical data",
+            "Geospatial data",
+            "Geospatial power grid data",
+            "Graph-structured network metadata",
+            "Health related data",
+            "Health-related data",
+            "Interface spatial layout",
+            "Large data",
+            "Large datasets",
+            "Multivariate data",
+            "Network traffic data",
+            "Not specified",
+            "Personal activity data",
+            "Physiological data",
+            "Physiological signal data",
+            "Point Cloud",
+            "Point cloud",
+            "Quantified self data",
+            "Renewable energy forecast data",
+            "Scientific data",
+            "Sensor data",
+            "Social Media Data",
+            "Statistical data",
+            "Streaming social media data",
+            "Time-series data",
+            "Volumetric data",
+            "volumetric models"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Goal of the visualization",
+          "values": [
+            "Communication",
+            "Comparison",
+            "Data OR Information presentation",
+            "Data communication",
+            "Data exploration",
+            "Data reflectio",
+            "Decision Support",
+            "Design validation",
+            "Immersion",
+            "Information communication",
+            "Information exploration",
+            "Information presentation",
+            "Interaction technique evaluation",
+            "Layout validation",
+            "Not specified",
+            "Performance evaluation",
+            "Simulation preview",
+            "Size judgment",
+            "Spatial Exploration",
+            "Spatial Understanding",
+            "User Awareness",
+            "User Awareness."
+          ],
+          "selected": []
+        },
+        {
+          "name": "Human perception of visualization",
+          "values": [
+            "Physical Non-Planar",
+            "Physical Non-planar",
+            "Physical non-planar",
+            "Physical non-planar/ Virtual non-planar",
+            "Physical non-planar/Virtual non-planar but physically situated",
+            "Planar",
+            "Virtual non-planar",
+            "Virtual non-planar but physical situated/Virtual non-planar",
+            "Virtual non-planar but physically situated",
+            "physical non-planar"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Interaction",
+          "values": [
+            "Interactive",
+            "Interctive",
+            "Non-interactive",
+            "Not specified"
+          ],
+          "selected": []
+        }
+      ]
+    },
+    {
+      "groupName": "SCREENING",
+      "categories": [
+        {
+          "name": "Exclusion criteria",
+          "values": [
+            "A course pdf",
+            "Classical planar display",
+            "No data &/ Information visualization /  No visual display",
+            "No full text",
+            "Review",
+            "VG",
+            "not an article"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Inclusion criteria",
+          "values": [
+            "Dashboard-based data visualization",
+            "Data visualization",
+            "Dynamic data physicalization using shape-changing interface",
+            "HMD-based interactive visualization",
+            "Immersive visual display + data/information visualization",
+            "Immersive visualization",
+            "Interactive display system",
+            "Large-scale display system with evaluation",
+            "Shape-changing interface design tool",
+            "Tiled display + multi-user mobile interaction framework",
+            "VR-based visualization system",
+            "Visual Display + Visualization of 2D/3D Datasets for Immersive Displays",
+            "Visual Display + Visualization of IoT Privacy/Categorical Data",
+            "Visual Display + Visualization of Massive Scientific Point Cloud Data",
+            "Visual Display + Visualization of Multi-dimensional Abstract Data",
+            "Visual Display + Visualization of Physiological/Time-series Data",
+            "Visual Display + Visualization of Shape-Changing Data",
+            "Visual Display and data visualization",
+            "Visual Display with interactive sound visualization",
+            "Visual Display with visualization technique",
+            "Visual Display+ Visualization",
+            "Visual display",
+            "Visual display (VR) with data visualization",
+            "Visual display (VR/AR)",
+            "Visual display + data physicalization",
+            "Visual display + data/information visualization",
+            "Visual display + dynamic graph visualization",
+            "Visual display + visualization of information",
+            "Visual display and visualization of cyclic data",
+            "Visual display with data physicalization",
+            "Visual display with data visualization",
+            "Visual display with data/information visualization",
+            "Visual display with information visualization",
+            "Visual display with information visualization in XR",
+            "Visual display with interactive visualization",
+            "Visual display with rectangular units",
+            "Visual display with tangible/interactive component",
+            "Visual display with user study",
+            "data visualization",
+            "information visualization",
+            "visual display + visualization of volume data"
+          ],
+          "selected": []
+        },
+        {
+          "name": "Useful in:",
+          "values": [
+            "Data physicalization / Shape-changing interfaces",
+            "Related Work\nInteraction",
+            "Related Work\nReview",
+            "Related Work Technical realisation",
+            "Related work \nHuman perception",
+            "auch teilweise example for technical realization"
+          ],
+          "selected": []
+        }
+      ]
+    }
+  ],
+  "detailView": {
+    "view": "normal",
+    "show": [
+      "Name",
+      "Authors",
+      "Year",
+      "DOI",
+      "Bibtex",
+      "MR Devices",
+      "2D Devices",
+      "Configuration",
+      "Temporal",
+      "Relationship",
+      "Range",
+      "Device Dependency",
+      "Interaction Dynamics",
+      "Space",
+      "Anchoring",
+      "Display Geometry",
+      "Type of display",
+      "Composition of display",
+      "Application area",
+      "Use Case",
+      "Data type",
+      "Goal of the visualization",
+      "Interaction",
+      "Type of interaction",
+      "Number of users",
+      "Terminology",
+      "Main Contribution",
+      "Secondary Contribution",
+      "Evaluation",
+      "Edge Case",
+      "Abstract"
+    ]
+  },
+  "summaryView": {
+    "view": "text",
+    "showImg": true,
+    "show": [
+      "Name",
+      "Year",
+      "MR Devices",
+      "2D Devices",
+      "Configuration",
+      "Display Geometry"
+    ]
+  },
+  "topView": {
+    "title": "Hybrid User Interfaces",
+    "description": "Imported from XLSX with derived taxonomy.",
+    "authors": "",
+    "addEntry": {
+      "description": [
+        "If you know a peer-reviewed published work that presents a contribution missing in our browser, please submit an entry!",
+        "Filling out the form below will create a json entry that can be added to an issue in our Github repository."
+      ],
+      "github": ""
+    }
+  }
+}
